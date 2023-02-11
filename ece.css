@@ -1,0 +1,56 @@
+body{
+  background-image: url("./resources/back2.jpg");
+
+  
+  height: 100%;
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    padding: 15px;
+  }
+  
+  li a {
+    display: block;
+    padding: 5px;
+    background-color: #850353;
+    border-radius: 10px;
+  }
+  p{
+    float: left;
+    padding: 5px;
+    color: azure;
+
+  }
+  button{
+       border-radius: 75px;
+       background-color: rgb(184, 29, 62);
+       text-align: center;
+       
+
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  .bob {
+    float: left;
+    width: 33.33%; 
+    padding: 50px; 
+  }
